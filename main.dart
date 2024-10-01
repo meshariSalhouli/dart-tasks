@@ -52,6 +52,6 @@ print("buzz");
 
 }
 else(){
-print("1");
+print("i");
 };
 }
